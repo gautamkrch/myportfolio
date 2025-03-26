@@ -8,7 +8,7 @@ const projects = [
       image: "instashield.png",
       technologies: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/gautamkrch/instashield",
-      liveDemo: "https://instashield.instahost.online"
+      liveDemo: "https://instashield.gautamkrch.xyz"
     },
 
     // {
